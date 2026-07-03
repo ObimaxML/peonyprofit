@@ -328,7 +328,7 @@ def main():
     st.markdown(
         f'<div style="display:flex;align-items:center;gap:20px;margin-bottom:10px;">'
         f'<img src="{LOGO_URL}" width="100"/>'
-        f'<h1 style="margin:0;">Product Profit Calculator</h1></div>',
+        f'<h1 style="margin:0;">Profit Calculator</h1></div>',
         unsafe_allow_html=True
     )
     st.divider()
